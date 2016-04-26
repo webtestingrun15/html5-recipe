@@ -1,1 +1,17 @@
 /* Recipe CSS*/
+h1 {
+  background: lightblue;
+  text-align: center;
+}
+img {
+  width: 400px;
+}
+nav {
+  background: lightcyan;
+  background: rgba(0, 255, 255, 0.1);
+  width: 30rem;
+}
+
+article {
+  margin-left: 2.0rem;
+}
