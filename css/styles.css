@@ -1,4 +1,8 @@
 /* Recipe CSS*/
+body {
+  margin: 0;
+}
+
 h1 {
   background: #89A4F6;
   text-align: center;
