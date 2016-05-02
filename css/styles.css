@@ -1,6 +1,6 @@
 /* Recipe CSS*/
 h1 {
-  background: lightblue;
+  background: #89A4F6;
   text-align: center;
 }
 img {
@@ -9,7 +9,7 @@ img {
   width: 400px;
 }
 nav {
-  background: lightcyan;
+  background: #F0F8FD;
   background: rgba(0, 255, 255, 0.1);
   width: 30rem;
 }
