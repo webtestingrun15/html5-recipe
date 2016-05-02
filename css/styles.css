@@ -23,11 +23,11 @@ nav ul {
 article {
   margin-left: 2.0rem;
 }
-a {
+p  a {
   font-size: 1rem;
-  font-style: italic;
   text-decoration: none;
+  font-style: italic;
 }
-a:hover {
+p a:hover {
   color: red;
 }
