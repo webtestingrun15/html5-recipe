@@ -2,7 +2,6 @@
 body {
   margin: 0;
 }
-
 h1 {
   background: #89A4F6;
   text-align: center;
@@ -18,7 +17,17 @@ nav {
   background: rgba(0, 255, 255, 0.1);
   width: 30rem;
 }
-
+nav ul {
+  padding-left: 25px;
+}
 article {
   margin-left: 2.0rem;
+}
+a {
+  font-size: 1rem;
+  font-style: italic;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
 }
