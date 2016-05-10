@@ -16,9 +16,13 @@ nav {
   background: #F0F8FD;
   background: rgba(0, 255, 255, 0.1);
   width: 30rem;
+  margin-left: -25rem;
 }
 nav ul {
   padding-left: 25px;
+}
+nav:hover {
+  margin-left: 0;
 }
 article {
   margin-left: 2.0rem;
