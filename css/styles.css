@@ -35,6 +35,9 @@ p  a {
 p a:hover {
   color: red;
 }
+table {
+  margin-top: 1em;
+}
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -42,3 +45,14 @@ table, th, td {
 th, td {
   padding: 15px;
 }
+thead {
+  background: #89A4F6;
+}
+
+tbody tr:nth-child(even) {
+  background: lightblue;
+}
+
+ tbody tr:hover {
+  background: #F0F8FD;
+ }
