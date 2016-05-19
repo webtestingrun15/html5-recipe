@@ -1,5 +1,6 @@
 /* Recipe CSS*/
 body {
+  font-size: 120%;
   margin: 0;
 }
 h1 {
@@ -18,12 +19,13 @@ img {
 }
 nav {
   background: #F0F8FD;
-  background: rgba(0, 255, 255, 0.9);
+  background: rgb(0, 255, 255);
   width: 30rem;
   margin-left: -28rem;
   font-size: 1.1rem;
   position: fixed;
   margin-top: 3rem;
+  opacity: .8;
   top: 0;
   left: 0;
 }
@@ -32,13 +34,15 @@ nav ul {
 }
 nav:hover {
   margin-left: 0;
+  opacity: 1;
 }
 article {
-  margin-left: 2.0rem;
+  min-width: 20rem;
+  max-width: 50rem;
+  margin: auto;
+  margin-top: 4rem;
 }
-main {
-  margin-top: 8rem;
-}
+
 p  a {
   font-size: 1rem;
   text-decoration: none;
