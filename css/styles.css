@@ -18,9 +18,9 @@ img {
 }
 nav {
   background: #F0F8FD;
-  background: rgba(0, 255, 255, 0.1);
+  background: rgba(0, 255, 255, 0.4);
   width: 30rem;
-  margin-left: -25rem;
+  margin-left: -28rem;
   font-size: 1.1rem;
   position: fixed;
   margin-top: 3rem;
@@ -32,6 +32,7 @@ nav ul {
 }
 nav:hover {
   margin-left: 0;
+  z-index: 2;
 }
 article {
   margin-left: 2.0rem;
