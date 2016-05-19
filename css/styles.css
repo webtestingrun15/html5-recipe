@@ -22,6 +22,10 @@ nav {
   width: 30rem;
   margin-left: -25rem;
   font-size: 1.1rem;
+  position: fixed;
+  margin-top: 3rem;
+  top: 0;
+  left: 0;
 }
 nav ul {
   padding-left: 25px;
@@ -31,6 +35,9 @@ nav:hover {
 }
 article {
   margin-left: 2.0rem;
+}
+main {
+  margin-top: 8rem;
 }
 p  a {
   font-size: 1rem;
