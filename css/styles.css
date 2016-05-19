@@ -41,8 +41,11 @@ article {
   max-width: 50rem;
   margin: auto;
   margin-top: 4rem;
+  border-bottom: 3px solid black;
 }
-
+article:last-child {
+  border-bottom: 0;
+}
 p  a {
   font-size: 1rem;
   text-decoration: none;
