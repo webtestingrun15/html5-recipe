@@ -32,7 +32,6 @@ nav ul {
 }
 nav:hover {
   margin-left: 0;
-  z-index: 1;
 }
 article {
   margin-left: 2.0rem;
