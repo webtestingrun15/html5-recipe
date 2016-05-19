@@ -6,6 +6,10 @@ h1 {
   background: #89A4F6;
   text-align: center;
   margin: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100vw;
 }
 img {
   border: 5px solid blue;
